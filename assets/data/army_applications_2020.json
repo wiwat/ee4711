@@ -8088,7 +8088,7 @@
       "properties": {
         "name": "ChiangMai",
         "p": 199,
-        "area": 3
+        "area": 3 
       },
       "geometry": {
         "type": "Polygon",
