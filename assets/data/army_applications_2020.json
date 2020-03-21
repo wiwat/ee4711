@@ -607,7 +607,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ang Thong",
+        "name": "อ่างทอง",
         "p": 48,
         "area": 1
       },
@@ -878,7 +878,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bangkok",
+        "name": "กรุงเทพมหานคร",
         "p": 1264,
         "area": 1
       },
@@ -1169,7 +1169,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Buriram",
+        "name": "บุรีรัมย์",
         "p": 123,
         "area": 2
       },
@@ -2508,7 +2508,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chachoengsao",
+        "name": "ฉะเชิงเทรา",
         "p": 115,
         "area": 1
       },
@@ -4747,7 +4747,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chainat",
+        "name": "ชัยนาท",
         "p": 17,
         "area": 1
       },
@@ -5078,7 +5078,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chaiyaphum",
+        "name": "ชัยภูมิ",
         "p": 67,
         "area": 2
       },
@@ -6001,7 +6001,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chanthaburi",
+        "name": "จันทบุรี",
         "p": 63,
         "area": 1
       },
@@ -8086,7 +8086,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chiang Mai",
+        "name": "เชียงใหม่",
         "p": 199,
         "area": 3
       },
@@ -10033,7 +10033,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chiang Rai",
+        "name": "เชียงราย",
         "p": 125,
         "area": 3
       },
@@ -10896,7 +10896,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chonburi",
+        "name": "ชลบุรี",
         "p": 440,
         "area": 1
       },
@@ -12885,7 +12885,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chumphon",
+        "name": "ชุมพร",
         "p": 101,
         "area": 4
       },
@@ -13902,7 +13902,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kalasin",
+        "name": "กาฬสินธุ์",
         "p": 59,
         "area": 2
       },
@@ -14865,7 +14865,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kampaeng Phet",
+        "name": "กำแพงเพชร",
         "p": 37,
         "area": 3
       },
@@ -15636,7 +15636,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kanchanaburi",
+        "name": "กาญจนบุรี",
         "p": 153,
         "area": 1
       },
@@ -16727,7 +16727,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Khon Kaen",
+        "name": "ขอนแก่น",
         "p": 233,
         "area": 2
       },
@@ -17894,7 +17894,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Krabi",
+        "name": "กระบี่",
         "p": 27,
         "area": 4
       },
@@ -19387,7 +19387,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lampang",
+        "name": "ลำปาง",
         "p": 78,
         "area": 3
       },
@@ -20570,7 +20570,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lamphun",
+        "name": "ลำพูน",
         "p": 78,
         "area": 3
       },
@@ -21341,7 +21341,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Loei",
+        "name": "เลย",
         "p": 35,
         "area": 2
       },
@@ -22452,7 +22452,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lopburi",
+        "name": "ลพบุรี",
         "p": 288,
         "area": 1
       },
@@ -23055,7 +23055,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mae Hong Son",
+        "name": "แม่ฮ่องสอน",
         "p": 13,
         "area": 3
       },
@@ -24354,7 +24354,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Maha Sarakham",
+        "name": "มหาสารคาม",
         "p": 96,
         "area": 2
       },
@@ -24965,7 +24965,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mukdahan",
+        "name": "มุกดาหาร",
         "p": 21,
         "area": 2
       },
@@ -25444,7 +25444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nakhon Nayok",
+        "name": "นครนายก",
         "p": 137,
         "area": 1
       },
@@ -25783,7 +25783,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nakhon Pathom",
+        "name": "นครปฐม",
         "p": 274,
         "area": 1
       },
@@ -26078,7 +26078,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nakhon Phanom",
+        "name": "นครพนม",
         "p": 67,
         "area": 2
       },
@@ -26781,7 +26781,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nakhon Ratchasima",
+        "name": "นครราชสีมา",
         "p": 392,
         "area": 2
       },
@@ -28004,7 +28004,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nakhon Sawan",
+        "name": "นครสวรรค์",
         "p": 160,
         "area": 3
       },
@@ -28971,7 +28971,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "NakhonSi Thammarat",
+        "name": "นครศรีธรรมราช",
         "p": 222,
         "area": 4
       },
@@ -29884,7 +29884,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nan",
+        "name": "น่าน",
         "p": 101,
         "area": 3
       },
@@ -30863,7 +30863,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Narathiwat",
+        "name": "นราธิวาส",
         "p": 8,
         "area": 4
       },
@@ -32212,7 +32212,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nong Bua Lamphu",
+        "name": "หนองบัวลำภู",
         "p": 19,
         "area": 2
       },
@@ -33014,7 +33014,7 @@
         ]
       },
       "properties": {
-        "name": "Nong Khai",
+        "name": "หนองคาย",
         "p": 27,
         "area": 2
       }
@@ -33022,7 +33022,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nonthaburi",
+        "name": "นนทบุรี",
         "p": 240,
         "area": 1
       },
@@ -33157,7 +33157,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pathum Thani",
+        "name": "ปทุมธานี",
         "p": 190,
         "area": 1
       },
@@ -33312,7 +33312,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pattani",
+        "name": "ปัตตานี",
         "p": 31,
         "area": 4
       },
@@ -34577,7 +34577,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Phachinburi",
+        "name": "ปราจีนบุรี",
         "p": 127,
         "area": 1
       },
@@ -35148,7 +35148,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Phangnga",
+        "name": "พังงา",
         "p": 16,
         "area": 4
       },
@@ -36797,7 +36797,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Phatthalung",
+        "name": "พัทลุง",
         "p": 73,
         "area": 4
       },
@@ -37366,7 +37366,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Phayao",
+        "name": "พะเยา",
         "p": 68,
         "area": 3
       },
@@ -37985,7 +37985,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Phetchabun",
+        "name": "เพชรบูรณ์",
         "p": 134,
         "area": 3
       },
@@ -39064,7 +39064,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Phetchaburi",
+        "name": "เพชรบุรี",
         "p": 151,
         "area": 1
       },
@@ -40295,7 +40295,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Phichit",
+        "name": "พิจิตร",
         "p": 64,
         "area": 3
       },
@@ -40798,7 +40798,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Phitsanulok",
+        "name": "พิษณุโลก",
         "p": 168,
         "area": 3
       },
@@ -41773,7 +41773,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Phra Nakhon SiAyudhya",
+        "name": "พระนครศรีอยุธยา",
         "p": 123,
         "area": 1
       },
@@ -42108,7 +42108,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Phrae",
+        "name": "แพร่",
         "p": 49,
         "area": 3
       },
@@ -42855,7 +42855,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Phuket",
+        "name": "ภูเก็ต",
         "p": 27,
         "area": 4
       },
@@ -43448,7 +43448,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Prachuap Khilikhan",
+        "name": "ประจวบคีรีขันธ์",
         "p": 103,
         "area": 1
       },
@@ -45045,7 +45045,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ranong",
+        "name": "ระนอง",
         "p": 31,
         "area": 4
       },
@@ -46578,7 +46578,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ratchaburi",
+        "name": "ราชบุรี",
         "p": 235,
         "area": 1
       },
@@ -47117,7 +47117,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rayong",
+        "name": "ระยอง",
         "p": 119,
         "area": 1
       },
@@ -47554,7 +47554,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Roi Et",
+        "name": "ร้อยเอ็ด",
         "p": 144,
         "area": 2
       },
@@ -48561,7 +48561,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sa Kaeo",
+        "name": "สระแก้ว",
         "p": 87,
         "area": 1
       },
@@ -50024,7 +50024,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sakon Nakhon",
+        "name": "สกลนคร",
         "p": 70,
         "area": 2
       },
@@ -51203,7 +51203,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Samut Prakarn",
+        "name": "สมุทรปราการ",
         "p": 193,
         "area": 1
       },
@@ -51430,7 +51430,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Samut Sakhon",
+        "name": "สมุทรสาคร",
         "p": 102,
         "area": 1
       },
@@ -51617,7 +51617,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Samut Songkham",
+        "name": "สมุทรสงคราม",
         "p": 29,
         "area": 1
       },
@@ -51764,7 +51764,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Saraburi",
+        "name": "สระบุรี",
         "p": 90,
         "area": 1
       },
@@ -52319,7 +52319,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Satun",
+        "name": "สตูล",
         "p": 39,
         "area": 4
       },
@@ -53392,7 +53392,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Si Saket",
+        "name": "ศรีสะเกษ",
         "p": 119,
         "area": 2
       },
@@ -54359,7 +54359,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Singburi",
+        "name": "สิงห์บุรี",
         "p": 29,
         "area": 1
       },
@@ -54650,7 +54650,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Songkhla",
+        "name": "สงขลา",
         "p": 311,
         "area": 4
       },
@@ -56235,7 +56235,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sukhothai",
+        "name": "สุโขทัย",
         "p": 58,
         "area": 3
       },
@@ -57050,7 +57050,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Suphanburi",
+        "name": "สุพรรณบุรี",
         "p": 104,
         "area": 1
       },
@@ -57765,7 +57765,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Surat Thani",
+        "name": "สุราษฎร์ธานี",
         "p": 149,
         "area": 4
       },
@@ -59558,7 +59558,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Surin",
+        "name": "สุรินทร์",
         "p": 109,
         "area": 2
       },
@@ -60857,7 +60857,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tak",
+        "name": "ตาก",
         "p": 56,
         "area": 3
       },
@@ -62928,7 +62928,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Trad",
+        "name": "ตราด",
         "p": 11,
         "area": 1
       },
@@ -64001,7 +64001,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Trang",
+        "name": "ตรัง",
         "p": 118,
         "area": 4
       },
@@ -64962,7 +64962,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ubon Ratchathani",
+        "name": "อุบลราชธานี",
         "p": 239,
         "area": 2
       },
@@ -66085,7 +66085,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Udon Thani",
+        "name": "อุดรธานี",
         "p": 163,
         "area": 2
       },
@@ -67320,7 +67320,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Uthai Thani",
+        "name": "อุทัยธานี",
         "p": 31,
         "area": 3
       },
@@ -68003,7 +68003,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Uttaradit",
+        "name": "อุตรดิตถ์",
         "p": 72,
         "area": 3
       },
@@ -68798,7 +68798,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Yala",
+        "name": "ยะลา",
         "p": 22,
         "area": 4
       },
@@ -71929,7 +71929,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Yasothon",
+        "name": "ยโสธร",
         "p": 50,
         "area": 2
       },
