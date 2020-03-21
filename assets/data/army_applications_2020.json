@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "AmnatCharoen",
-        "p": 112.9
+        "p": 163
       },
       "geometry": {
         "type": "Polygon",
@@ -607,7 +607,7 @@
       "type": "Feature",
       "properties": {
         "name": "AngThong",
-        "p": 277.6
+        "p": 48
       },
       "geometry": {
         "type": "Polygon",
@@ -877,7 +877,7 @@
       "type": "Feature",
       "properties": {
         "name": "Bangkok",
-        "p": 4029.0
+        "p": 1264
       },
       "geometry": {
         "type": "Polygon",
