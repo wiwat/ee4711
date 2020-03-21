@@ -8088,7 +8088,7 @@
       "properties": {
         "name": "ChiangMai",
         "p": 199,
-        "area": 1
+        "area": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -24356,7 +24356,7 @@
       "properties": {
         "name": "MahaSarakham",
         "p": 96,
-        "area": 3
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -28973,7 +28973,7 @@
       "properties": {
         "name": "NakhonSiThammarat",
         "p": 222,
-        "area": 2
+        "area": 4
       },
       "geometry": {
         "type": "MultiPolygon",
