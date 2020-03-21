@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "AmnatCharoen",
+        "name": "Amnat Charoen",
         "p": 163,
         "area": 2
       },
@@ -607,7 +607,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "AngThong",
+        "name": "Ang Thong",
         "p": 48,
         "area": 1
       },
@@ -8086,7 +8086,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "ChiangMai",
+        "name": "Chiang Mai",
         "p": 199,
         "area": 3
       },
@@ -10033,7 +10033,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "ChiangRai",
+        "name": "Chiang Rai",
         "p": 125,
         "area": 3
       },
@@ -14865,7 +14865,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "KampaengPhet",
+        "name": "Kampaeng Phet",
         "p": 37,
         "area": 3
       },
@@ -16727,7 +16727,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "KhonKaen",
+        "name": "Khon Kaen",
         "p": 233,
         "area": 2
       },
@@ -23055,7 +23055,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "MaeHongSon",
+        "name": "Mae Hong Son",
         "p": 13,
         "area": 3
       },
@@ -24354,7 +24354,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "MahaSarakham",
+        "name": "Maha Sarakham",
         "p": 96,
         "area": 2
       },
@@ -25444,7 +25444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "NakhonNayok",
+        "name": "Nakhon Nayok",
         "p": 137,
         "area": 1
       },
@@ -25783,7 +25783,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "NakhonPathom",
+        "name": "Nakhon Pathom",
         "p": 274,
         "area": 1
       },
@@ -26078,7 +26078,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "NakhonPhanom",
+        "name": "Nakhon Phanom",
         "p": 67,
         "area": 2
       },
@@ -26781,7 +26781,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "NakhonRatchasima",
+        "name": "Nakhon Ratchasima",
         "p": 392,
         "area": 2
       },
@@ -28004,7 +28004,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "NakhonSawan",
+        "name": "Nakhon Sawan",
         "p": 160,
         "area": 3
       },
@@ -28971,7 +28971,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "NakhonSiThammarat",
+        "name": "NakhonSi Thammarat",
         "p": 222,
         "area": 4
       },
@@ -32212,7 +32212,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "NongBuaLamphu",
+        "name": "Nong Bua Lamphu",
         "p": 19,
         "area": 2
       },
@@ -33014,7 +33014,7 @@
         ]
       },
       "properties": {
-        "name": "NongKhai",
+        "name": "Nong Khai",
         "p": 27,
         "area": 2
       }
@@ -33157,7 +33157,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "PathumThani",
+        "name": "Pathum Thani",
         "p": 190,
         "area": 1
       },
@@ -41773,7 +41773,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "PhraNakhonSiAyudhya",
+        "name": "Phra Nakhon SiAyudhya",
         "p": 123,
         "area": 1
       },
@@ -43448,7 +43448,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "PrachuapKhilikhan",
+        "name": "Prachuap Khilikhan",
         "p": 103,
         "area": 1
       },
@@ -47554,7 +47554,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "RoiEt",
+        "name": "Roi Et",
         "p": 144,
         "area": 2
       },
@@ -48561,7 +48561,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "SaKaeo",
+        "name": "Sa Kaeo",
         "p": 87,
         "area": 1
       },
@@ -50024,7 +50024,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "SakonNakhon",
+        "name": "Sakon Nakhon",
         "p": 70,
         "area": 2
       },
@@ -51203,7 +51203,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "SamutPrakarn",
+        "name": "Samut Prakarn",
         "p": 193,
         "area": 1
       },
@@ -51430,7 +51430,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "SamutSakhon",
+        "name": "Samut Sakhon",
         "p": 102,
         "area": 1
       },
@@ -51617,7 +51617,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "SamutSongkham",
+        "name": "Samut Songkham",
         "p": 29,
         "area": 1
       },
@@ -53392,7 +53392,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "SiSaket",
+        "name": "Si Saket",
         "p": 119,
         "area": 2
       },
@@ -57765,7 +57765,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "SuratThani",
+        "name": "Surat Thani",
         "p": 149,
         "area": 4
       },
@@ -64962,7 +64962,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "UbonRatchathani",
+        "name": "Ubon Ratchathani",
         "p": 239,
         "area": 2
       },
@@ -66085,7 +66085,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "UdonThani",
+        "name": "Udon Thani",
         "p": 163,
         "area": 2
       },
@@ -67320,7 +67320,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "UthaiThani",
+        "name": "Uthai Thani",
         "p": 31,
         "area": 3
       },
@@ -72880,7 +72880,7 @@
       },
       "properties": {
         "name": "Bueng Kan",
-        "p": 123,
+        "p": 27,
         "area": 2
       }
     }
