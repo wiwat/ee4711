@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "name": "AmnatCharoen",
-        "p": 163
+        "p": 163,
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -607,7 +608,8 @@
       "type": "Feature",
       "properties": {
         "name": "AngThong",
-        "p": 48
+        "p": 48,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -877,7 +879,8 @@
       "type": "Feature",
       "properties": {
         "name": "Bangkok",
-        "p": 1264
+        "p": 1264,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1167,7 +1170,8 @@
       "type": "Feature",
       "properties": {
         "name": "Buriram",
-        "p": 144.2
+        "p": 123,
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -2505,7 +2509,8 @@
       "type": "Feature",
       "properties": {
         "name": "Chachoengsao",
-        "p": 118.2
+        "p": 115,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4743,7 +4748,8 @@
       "type": "Feature",
       "properties": {
         "name": "Chainat",
-        "p": 145.3
+        "p": 17,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -5073,7 +5079,8 @@
       "type": "Feature",
       "properties": {
         "name": "Chaiyaphum",
-        "p": 85.6
+        "p": 67,
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -5995,7 +6002,8 @@
       "type": "Feature",
       "properties": {
         "name": "Chanthaburi",
-        "p": 74.8
+        "p": 63,
+        "area": 1
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8079,7 +8087,8 @@
       "type": "Feature",
       "properties": {
         "name": "ChiangMai",
-        "p": 73.2
+        "p": 199,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -10025,7 +10034,8 @@
       "type": "Feature",
       "properties": {
         "name": "ChiangRai",
-        "p": 96.3
+        "p": 125,
+        "area": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -10887,7 +10897,8 @@
       "type": "Feature",
       "properties": {
         "name": "Chonburi",
-        "p": 233.5
+        "p": 440,
+        "area": 1
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12875,7 +12886,8 @@
       "type": "Feature",
       "properties": {
         "name": "Chumphon",
-        "p": 74.1
+        "p": 101,
+        "area": 4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13891,7 +13903,8 @@
       "type": "Feature",
       "properties": {
         "name": "Kalasin",
-        "p": 132.3
+        "p": 59,
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -14853,7 +14866,8 @@
       "type": "Feature",
       "properties": {
         "name": "KampaengPhet",
-        "p": 77.9
+        "p": 37,
+        "area": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15623,7 +15637,8 @@
       "type": "Feature",
       "properties": {
         "name": "Kanchanaburi",
-        "p": 37.6
+        "p": 153,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -16713,7 +16728,8 @@
       "type": "Feature",
       "properties": {
         "name": "KhonKaen",
-        "p": 158.7
+        "p": 233,
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -17879,7 +17895,8 @@
       "type": "Feature",
       "properties": {
         "name": "Krabi",
-        "p": 71.0
+        "p": 27,
+        "area": 4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19371,7 +19388,8 @@
       "type": "Feature",
       "properties": {
         "name": "Lampang",
-        "p": 62.2
+        "p": 78,
+        "area": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20553,7 +20571,8 @@
       "type": "Feature",
       "properties": {
         "name": "Lamphun",
-        "p": 91.3
+        "p": 78,
+        "area": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21323,7 +21342,8 @@
       "type": "Feature",
       "properties": {
         "name": "Loei",
-        "p": 52.9
+        "p": 35,
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -22433,7 +22453,8 @@
       "type": "Feature",
       "properties": {
         "name": "Lopburi",
-        "p": 119.8
+        "p": 288,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -23035,7 +23056,8 @@
       "type": "Feature",
       "properties": {
         "name": "MaeHongSon",
-        "p": 16.5
+        "p": 13,
+        "area": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -24333,7 +24355,8 @@
       "type": "Feature",
       "properties": {
         "name": "MahaSarakham",
-        "p": 178.0
+        "p": 96,
+        "area": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -24943,7 +24966,8 @@
       "type": "Feature",
       "properties": {
         "name": "Mukdahan",
-        "p": 71.4
+        "p": 21,
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -25421,7 +25445,8 @@
       "type": "Feature",
       "properties": {
         "name": "NakhonNayok",
-        "p": 113.5
+        "p": 137,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -25759,7 +25784,8 @@
       "type": "Feature",
       "properties": {
         "name": "NakhonPathom",
-        "p": 373.1
+        "p": 274,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -26053,7 +26079,8 @@
       "type": "Feature",
       "properties": {
         "name": "NakhonPhanom",
-        "p": 124.0
+        "p": 67,
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -26755,7 +26782,8 @@
       "type": "Feature",
       "properties": {
         "name": "NakhonRatchasima",
-        "p": 124.4
+        "p": 392,
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -27977,7 +28005,8 @@
       "type": "Feature",
       "properties": {
         "name": "NakhonSawan",
-        "p": 113.4
+        "p": 160,
+        "area": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28943,7 +28972,8 @@
       "type": "Feature",
       "properties": {
         "name": "NakhonSiThammarat",
-        "p": 152.8
+        "p": 222,
+        "area": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29855,7 +29885,8 @@
       "type": "Feature",
       "properties": {
         "name": "Nan",
-        "p": 39.6
+        "p": 101,
+        "area": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -30833,7 +30864,8 @@
       "type": "Feature",
       "properties": {
         "name": "Narathiwat",
-        "p": 147.7
+        "p": 8,
+        "area": 4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32181,7 +32213,8 @@
       "type": "Feature",
       "properties": {
         "name": "NongBuaLamphu",
-        "p": 124.8
+        "p": 19,
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -32747,7 +32780,8 @@
       "type": "Feature",
       "properties": {
         "name": "NongKhai",
-        "p": 120.3
+        "p": 44,
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -33929,7 +33963,8 @@
       "type": "Feature",
       "properties": {
         "name": "Nonthaburi",
-        "p": 1302.0
+        "p": 240,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -34063,7 +34098,8 @@
       "type": "Feature",
       "properties": {
         "name": "PathumThani",
-        "p": 438.5
+        "p": 190,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -34217,7 +34253,8 @@
       "type": "Feature",
       "properties": {
         "name": "Pattani",
-        "p": 306.3
+        "p": 31,
+        "area": 4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35481,7 +35518,8 @@
       "type": "Feature",
       "properties": {
         "name": "Phachinburi",
-        "p": 85.1
+        "p": 127,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -36051,7 +36089,8 @@
       "type": "Feature",
       "properties": {
         "name": "Phangnga",
-        "p": 56.1
+        "p": 16,
+        "area": 4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37699,7 +37738,8 @@
       "type": "Feature",
       "properties": {
         "name": "Phatthalung",
-        "p": 144.9
+        "p": 73,
+        "area": 4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38267,7 +38307,8 @@
       "type": "Feature",
       "properties": {
         "name": "Phayao",
-        "p": 79.2
+        "p": 68,
+        "area": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -38885,7 +38926,8 @@
       "type": "Feature",
       "properties": {
         "name": "Phetchabun",
-        "p": 75.6
+        "p": 134,
+        "area": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -39963,7 +40005,8 @@
       "type": "Feature",
       "properties": {
         "name": "Phetchaburi",
-        "p": 69.3
+        "p": 151,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -41193,7 +41236,8 @@
       "type": "Feature",
       "properties": {
         "name": "Phichit",
-        "p": 126.2
+        "p": 64,
+        "area": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -41695,7 +41739,8 @@
       "type": "Feature",
       "properties": {
         "name": "Phitsanulok",
-        "p": 73.2
+        "p": 168,
+        "area": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -42669,7 +42714,8 @@
       "type": "Feature",
       "properties": {
         "name": "PhraNakhonSiAyudhya",
-        "p": 282.3
+        "p": 123,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -43003,7 +43049,8 @@
       "type": "Feature",
       "properties": {
         "name": "Phrae",
-        "p": 75.2
+        "p": 49,
+        "area": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -43749,7 +43796,8 @@
       "type": "Feature",
       "properties": {
         "name": "Phuket",
-        "p": 440.1
+        "p": 27,
+        "area": 4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44341,7 +44389,8 @@
       "type": "Feature",
       "properties": {
         "name": "PrachuapKhilikhan",
-        "p": 69.6
+        "p": 103,
+        "area": 1
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45937,7 +45986,8 @@
       "type": "Feature",
       "properties": {
         "name": "Ranong",
-        "p": 48.8
+        "p": 31,
+        "area": 4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47469,7 +47519,8 @@
       "type": "Feature",
       "properties": {
         "name": "Ratchaburi",
-        "p": 151.7
+        "p": 235,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -48007,7 +48058,8 @@
       "type": "Feature",
       "properties": {
         "name": "Rayong",
-        "p": 146.4
+        "p": 119,
+        "area": 1
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48443,7 +48495,8 @@
       "type": "Feature",
       "properties": {
         "name": "RoiEt",
-        "p": 150.9
+        "p": 144,
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -49449,7 +49502,8 @@
       "type": "Feature",
       "properties": {
         "name": "SaKaeo",
-        "p": 67.2
+        "p": 87,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -50911,7 +50965,8 @@
       "type": "Feature",
       "properties": {
         "name": "SakonNakhon",
-        "p": 107.9
+        "p": 70,
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -52089,7 +52144,8 @@
       "type": "Feature",
       "properties": {
         "name": "SamutPrakarn",
-        "p": 1010.0
+        "p": 193,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -52315,7 +52371,8 @@
       "type": "Feature",
       "properties": {
         "name": "SamutSakhon",
-        "p": 524.0
+        "p": 102,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -52501,7 +52558,8 @@
       "type": "Feature",
       "properties": {
         "name": "SamutSongkham",
-        "p": 489.6
+        "p": 29,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -52647,7 +52705,8 @@
       "type": "Feature",
       "properties": {
         "name": "Saraburi",
-        "p": 158.9
+        "p": 90,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -53201,7 +53260,8 @@
       "type": "Feature",
       "properties": {
         "name": "Satun",
-        "p": 99.8
+        "p": 39,
+        "area": 4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54273,7 +54333,8 @@
       "type": "Feature",
       "properties": {
         "name": "SiSaket",
-        "p": 158.7
+        "p": 119,
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -55239,7 +55300,8 @@
       "type": "Feature",
       "properties": {
         "name": "Singburi",
-        "p": 282.9
+        "p": 29,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -55529,7 +55591,8 @@
       "type": "Feature",
       "properties": {
         "name": "Songkhla",
-        "p": 169.2
+        "p": 311,
+        "area": 4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57113,7 +57176,8 @@
       "type": "Feature",
       "properties": {
         "name": "Sukhothai",
-        "p": 89.7
+        "p": 58,
+        "area": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -57927,7 +57991,8 @@
       "type": "Feature",
       "properties": {
         "name": "Suphanburi",
-        "p": 159.5
+        "p": 104,
+        "area": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -58641,7 +58706,8 @@
       "type": "Feature",
       "properties": {
         "name": "SuratThani",
-        "p": 67.3
+        "p": 149,
+        "area": 4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60433,7 +60499,8 @@
       "type": "Feature",
       "properties": {
         "name": "Surin",
-        "p": 163.2
+        "p": 109,
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -61731,7 +61798,8 @@
       "type": "Feature",
       "properties": {
         "name": "Tak",
-        "p": 29.5
+        "p": 56,
+        "area": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -63801,7 +63869,8 @@
       "type": "Feature",
       "properties": {
         "name": "Trad",
-        "p": 77.3
+        "p": 11,
+        "area": 1
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64873,7 +64942,8 @@
       "type": "Feature",
       "properties": {
         "name": "Trang",
-        "p": 120.7
+        "p": 118,
+        "area": 4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65833,7 +65903,8 @@
       "type": "Feature",
       "properties": {
         "name": "UbonRatchathani",
-        "p": 107.1
+        "p": 239,
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -66955,7 +67026,8 @@
       "type": "Feature",
       "properties": {
         "name": "UdonThani",
-        "p": 124.4
+        "p": 163,
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -68189,7 +68261,8 @@
       "type": "Feature",
       "properties": {
         "name": "UthaiThani",
-        "p": 45.1
+        "p": 31,
+        "area": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -68871,7 +68944,8 @@
       "type": "Feature",
       "properties": {
         "name": "Uttaradit",
-        "p": 59.1
+        "p": 72,
+        "area": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -69665,7 +69739,8 @@
       "type": "Feature",
       "properties": {
         "name": "Yala",
-        "p": 91.8
+        "p": 22,
+        "area": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -72795,7 +72870,8 @@
       "type": "Feature",
       "properties": {
         "name": "Yasothon",
-        "p": 134.2
+        "p": 50,
+        "area": 2
       },
       "geometry": {
         "type": "Polygon",
